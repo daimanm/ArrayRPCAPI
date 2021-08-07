@@ -30,7 +30,6 @@ class rpcapi {
 		curl_close($ch);
 	}
 	public function make_call() {
-		print_r($this->args);
 		$call = $this->call_api($this->call, $this->args);
 		return $call;
 	}
