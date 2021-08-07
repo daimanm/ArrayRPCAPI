@@ -20,18 +20,6 @@ Array
 )
 ```
 
-
-```/sendtoaddress/Ah6BXjBgKsn7qVHfHYtkesgr9VJfLiEmnc/1.1```
-```
-Array
-(
-    [result] => caa3b2e778db8a488d181bbe926117a9c6757ec3484bd16356acbad8ebad7372
-    [error] => 
-    [id] => 1
-)
-```
-
-
 ```/sendtoaddress/Ah6BXjBgKsn7qVHfHYtkesgr9VJfLiEmnc/1.1```
 ```
 Array
